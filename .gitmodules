@@ -1,0 +1,3 @@
+[submodule "samHQ"]
+	path = samHQ
+	url = https://github.com/Oh-hi-marx/samHQ
